@@ -1,0 +1,1 @@
+# test-sns-sub-lambda
